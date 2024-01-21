@@ -17,4 +17,3 @@ O projeto está organizado da seguinte forma:
 - `venv/`: Ambiente virtual Python (ignorado pelo Git).
 - `.gitignore`: Arquivo para especificar quais arquivos/diretórios devem ser ignorados pelo Git.
 - `manage.py`: Script de gerenciamento do Django.
-- `README.md`: Este arquivo.
